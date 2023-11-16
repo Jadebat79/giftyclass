@@ -1,0 +1,81 @@
+What is Cloud?
+- The term Cloud refers to a Network or Internet. In other words, we can say that Cloud is something, which is
+present at remote location. 
+- Cloud can provide services over network, i.e., on public networks or on private
+networks, i.e., WAN, LAN or VPN.
+-Applications such as e-mail, web conferencing, customer relationship management (CRM),all run in cloud.
+
+What is Cloud Computing?
+- Cloud Computing refers to manipulating, configuring, and accessing the applications online. It offers online
+data storage, infrastructure and application.
+- We need not to install a piece of software on our local PC and this is how the cloud computing
+overcomes platform dependency issues. Hence, the Cloud Computing is making our business
+application mobile and collaborative.
+
+Basic Concepts
+- There are certain services and models working behind the scene making the cloud computing feasible and 
+accessible to end users. 
+- Following are the working models for cloud computing
+    - Deployment Models
+    - Service Models
+
+  DEPLOYMENT MODELS
+  Deployment models define the type of access to the cloud, i.e., how the cloud is located? Cloud can have any of
+  the four types of access
+    - PUBLIC CLOUD
+      The Public Cloud allows systems and services to be easily accessible to the general public. 
+      Public cloud may be less secure because of its openness, e.g., e-mail.
+
+    - PRIVATE CLOUD
+      The Private Cloud allows systems and services to be accessible within an organization. 
+      It offers increased security because of its private nature.
+
+    - COMMUNITY CLOUD
+      The Community Cloud allows systems and services to be accessible by group of organizations.
+
+    - HYBRID CLOUD
+      The Hybrid Cloud is mixture of public and private cloud. However, the critical activities are performed using
+      private cloud while the non-critical activities are performed using public cloud.
+  
+  SERVICE MODELS
+  Service Models are the reference models on which the Cloud Computing is based. 
+  These can be categorized into three basic service models as listed below
+    1.Infrastructure as a Service (IaaS)
+    2.Platform as a Service (PaaS)
+    3.Software as a Service (SaaS)
+
+  There are many other service models all of which can take the form like XaaS, i.e., Anything as a Service. This
+  can be Network as a Service, Business as a Service, Identity as a Service, Database as a
+  Service or Strategy as a Service.
+  
+The Infrastructure as a Service (IaaS) is the most basic level of service. Each of the service models make use of
+the underlying service model, i.e., each inherits the security and management mechanism from the underlying
+model,
+
+Linux 
+
+commands 
+ 1. ls - list contents of directories
+ 2. cd - Change directories 
+ 3. mkdir - create directories 
+ 4. touch - create files (Add any extension of your choices .txt, .pdf, .mp3 .ppt)
+ 5. touch filename {1..20}.extension - to create multiple files 
+      eg. touch jade {1..20}.pdf
+          touch gift {1..20}.ppt
+ 6.mv - For renaming files 
+      eg. mv jade.pdf gift.pdf
+ 7.cat - to view contents in files 
+ 8. cp - too copy files to a different destination 
+ 9. mv - moving to another directory 
+ 10. rm - to delete files       
+
+Assignment 1 
+  1.Create 2 new directories with names of your choice
+  2.Create 20 files each of the following extensions
+      i. .pdf 
+      ii. .docx 
+      iii. .ppt 
+      iv. .xls 
+  3. move the .pdf files to one of the directories
+  4. move the .xls files to the other directory 
+  5. copy the .docx files to the directory that contains .pdf files

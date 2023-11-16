@@ -1,0 +1,5 @@
+I am a cloud engineer in training
+
+API_URI ${API_URI:-http://localhost:8000/graphql/}
+
+docker build --build-arg NODE_ENV=production --build-arg DOCKER_REPO=${DOCKER_REPO} -t $IMAGE_TAG core-service/.
